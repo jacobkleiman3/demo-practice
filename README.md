@@ -172,3 +172,7 @@ To lookup information about a user:
 To get suggested movies for a user:
 
     GET /users/michael_scott/suggested
+
+---
+
+*This repository is maintained for demo purposes.*
