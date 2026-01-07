@@ -1,3 +1,4 @@
+# Shared utilities for Cinema 3 microservices
 import os
 import json
 from flask import make_response
